@@ -14,11 +14,6 @@ run the command `npm i` in the main directory & the `electron` directory to inst
 $ cd electron
 $ npm run start
 
-// CTRL + SHIFT + 5 (open new terminal)
-
-$ cd electron
-$ npm i
-
 $ cd ..
 $ npm i
 $ npm start
