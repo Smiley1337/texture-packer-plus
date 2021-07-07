@@ -10,6 +10,18 @@ Added support to allow the use of Multi-packing all frames into one json rather 
 run the command `npm i` in the main directory & the `electron` directory to install all needed packages
 
 # Usage 
+```console
+$ cd electron
+$ npm run start
 
-Run the command `npm start` in the main directory & wait for the console to tell you its ready.
+// CTRL + SHIFT + 5 (open new terminal)
+
+$ cd electron
+$ npm i
+
+$ cd ..
+$ npm i
+$ npm start
+```
+#
 Go to [http://locahost:4000]
