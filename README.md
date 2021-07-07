@@ -1,5 +1,5 @@
 # Free texture packer
-Forked from [https://github.com/odrick/free-tex-packer]
+Forked from [https://github.com/odrick/free-tex-packer](https://github.com/odrick/free-tex-packer)
 #
 Added support to allow the use of Multi-Packing all sprite frames into one JSON rather than seperate.
 
