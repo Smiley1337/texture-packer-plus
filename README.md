@@ -25,3 +25,5 @@ $ npm start
 ```
 
 Go to [https://locahost:4000](https://locahost:4000)
+
+Add all of the images you want, configure your setting & export!
