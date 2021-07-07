@@ -24,4 +24,4 @@ $ npm i
 $ npm start
 ```
 #
-Go to [http://locahost:4000]
+Go to [https://locahost:4000]
