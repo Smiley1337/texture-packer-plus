@@ -19,6 +19,6 @@ $ npm i
 $ npm start
 ```
 
-Go to [http://locahost:4000](http://locahost:4000)
+Go to [http://localhost:4000](http://localhost:4000)
 
 Add all of the images you want, configure your setting & export!
